@@ -1,0 +1,18 @@
+.list {
+    display: flex;
+    width: 1440px;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+    list-style: none;
+    background-color: #61dafb;
+}
+
+
+
+.box {
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+    background-color: red;
+}

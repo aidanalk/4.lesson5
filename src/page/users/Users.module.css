@@ -1,0 +1,20 @@
+.users {
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.user {
+
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  border: red 1px solid;
+  padding: 20px;
+  width: 300px;
+  gap: 20px;
+}

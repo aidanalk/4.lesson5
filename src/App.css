@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.textBlue {
+  color: blue;
+}
+.textGreen {
+  color: green;
+}
+.textBlue {
+  color: red;
+}
+
+
+.wrapper {
+  background-color: #0ab070;
+  width: 100px;
+  height: 100px;
+}
+
+.inputValue {
+  color: red;
+  font-size: 30px;
+}
